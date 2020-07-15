@@ -13,4 +13,6 @@ end
 def using_flatten(instruments)
   instruments.flatten(1)
 end
+
+def using_delete(array, string)
   
