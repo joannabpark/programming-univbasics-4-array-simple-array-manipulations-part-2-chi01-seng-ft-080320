@@ -7,7 +7,7 @@ def using_insert(array, new_element)
 end
 
 def using_uniq(array)
-  array.usiq
+  array.uniq
 end
 
 def using_flatten(instruments)
