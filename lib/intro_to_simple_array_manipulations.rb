@@ -7,4 +7,5 @@ def using_insert(array, new_element)
 end
 
 def using_flatten(instruments, flat_array)
+  instruments(1)
   
